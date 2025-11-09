@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+     background-color:#a36d21;
+
+}
+.gradient-text {
+
+  background-image: linear-gradient(45deg, #4b2d18, #ccb47d);
+
+
+
+  -webkit-background-clip: text; 
+  background-clip: text;         
+
+
+  -webkit-text-fill-color: transparent; 
+
+  font-size: 64px;
+  font-weight: 900;
+}
+h1 {
+   color:#bfab6a;
+   font-family: 'georgia';
+   text-align: center;
+   font-size: 50px;
+}
+
+h2 {
+   color:#bfab6a;
+   font-family: 'georgia';
+   text-align: center;
+   font-size: 40px;
+}
+
+
+
+.center-container {
+  text-align: center;
+}
+
+.pic-spacing {
+  margin: 50px;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #000000, #593621);
+    min-height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
+}
+
